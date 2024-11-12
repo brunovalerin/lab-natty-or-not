@@ -20,7 +20,7 @@ ChatGPT, Speechfy, Beatonven.ai, D-ID, RunWay
 
 🖌️ Ainda no Runway, as imagens obtidas foram tranformadas em animações.
 
-🎶 A trilha sonora, foi criada utilizando Beatoven.ai e também passou por ajustes no Adobe Audition.
+🎶 A trilha sonora foi criada utilizando Beatoven.ai e também passou por ajustes no Adobe Audition.
 
 🔠 Usando o Canva, tópicos extraídos do roteiro foram transformados em banners.
 
