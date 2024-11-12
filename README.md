@@ -10,9 +10,9 @@ ChatGPT, Speechfy, Beatonven.ai, D-ID, RunWay
 ## 🧐 Processo de Criação
 📝 Com a escolha do tema, foi utilizado o ChatGPT para a geração do roteiro do vídeo.
 
-🎙️ Após leves ajustes no prompt, o texto gerado foi levado ao Speechfy para criação da narração.
+🎙️ Após ajustes no prompt, o texto gerado foi levado ao Speechfy para criação da narração.
 
-✂️ O material obtido passou pelo Adobe Audition para pequenas alterações no timing da fala.
+✂️ O material obtido passou pelo Adobe Audition para alterações no timing da fala.
 
 👩🏼 Utilizando D-ID, o aúdio foi transformado na apresentação em vídeo feita pelo avatar virtual.
 
@@ -20,7 +20,7 @@ ChatGPT, Speechfy, Beatonven.ai, D-ID, RunWay
 
 🖌️ Ainda no Runway, as imagens obtidas foram tranformadas em animações.
 
-🎶 A trilha sonora, foi criada utilizando utilizando Beatoven.ai e também passou por ajustes no Adobe Audition.
+🎶 A trilha sonora, foi criada utilizando Beatoven.ai e também passou por ajustes no Adobe Audition.
 
 🔠 Usando o Canva, tópicos extraídos do roteiro foram transformados em banners.
 
