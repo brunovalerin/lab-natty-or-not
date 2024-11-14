@@ -1,5 +1,6 @@
 
 # COMO PROTEGER SEU DINHEIRO 🔐💰
+PT_BR VERSION
 
 ## 📒 Descrição
 Vídeo informativo focado no público na terceira idade, com dicas de práticas que tornam mais seguro o uso de apps que envolvam transações financeiras.
