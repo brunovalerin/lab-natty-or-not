@@ -1,33 +1,33 @@
 
-# COMO PROTEGER SEU DINHEIRO 🔐💰
-PT_BR VERSION
+# HOW TO PROTECT YOUR MONEY 🔐💰
+[PORTUGUESE VERSION](https://github.com/brunovalerin/lab-natty-or-not/blob/main/README.md)
 
-## 📒 Descrição
-Vídeo informativo focado no público na terceira idade, com dicas de práticas que tornam mais seguro o uso de apps que envolvam transações financeiras.
+## 📒 Description
+Informative video focused on senior citizens, with tips on practices that make the use of apps involving financial transactions safer.
 
-## 🤖 Tecnologias Utilizadas
+## 🤖 Technologies Used
 ChatGPT, Speechfy, Beatonven.ai, D-ID, RunWay
 
-## 🧐 Processo de Criação
-📝 Com a escolha do tema, foi utilizado o ChatGPT para a geração do roteiro do vídeo.
+## 🧐 Creation Process
+📝 Once the theme was chosen, ChatGPT was used to generate the video script.
 
-🎙️ Após ajustes no prompt, o texto gerado foi levado ao Speechfy para criação da narração.
+🎙️ After prompt adjustments, the generated text was taken to Speechfy to create the narration.
 
-✂️ O material obtido passou pelo Adobe Audition para alterações no timing da fala.
+✂️ The material obtained was passed through Adobe Audition to change the speech timing.
 
-👩🏼 Utilizando D-ID, o aúdio foi transformado na apresentação em vídeo feita pelo avatar virtual.
+👩🏼 Using D-ID, the audio was transformed into the video presentation made by the virtual avatar.
 
-🖼️ Para enriquecer o conteúdo, foram escolhidos trechos do texto para serem transformados em desenhos no Runway.
+🖼️ To improve the content, excerpts from the text were chosen to be transformed into drawings on Runway.
 
-🖌️ Ainda no Runway, as imagens obtidas foram tranformadas em animações.
+🖌️ Still on Runway, the images obtained were transformed into animations.
 
-🎶 A trilha sonora foi criada utilizando Beatoven.ai e também passou por ajustes no Adobe Audition.
+🎶 The soundtrack was created using Beatoven.ai and was also tweaked in Adobe Audition.
 
-🔠 Usando o Canva, tópicos extraídos do roteiro foram transformados em banners.
+🔠 Using Canva, topics extracted from the script were transformed into banners.
 
-🎞️ Com todo o matarial com mãos, foi montado o vídeo utilizando o Adobe Premiere.
+🎞️ With all the material in hand, the video was edited using Adobe Premiere.
 
-## 🚀 Resultados
+## 🚀 Results (with subtitles)
 https://youtu.be/oahFhZ1yZkQ
 
 
